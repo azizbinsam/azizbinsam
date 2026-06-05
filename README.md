@@ -76,7 +76,7 @@ I'm a web developer from Indonesia who specializes in building modern websites a
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/azizbinsam
-- Email: your-email@example.com
+- Email: abdulazizbinsambas@gmail.com
 
 ---
 
